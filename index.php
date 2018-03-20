@@ -20,7 +20,7 @@
 </head>
 <body>
    <div id="image"><img src="atmosphere_layers.png" /></div>
-   <div id="text"><p>Click anywhere to recentre. Source: <a href="https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line">Wikipedia</a>.</p></div>
+   <div id="text"><p>Click anywhere to recentre. Source: <a href="https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line">Wikipedia</a>. Code: <a href="https://github.com/stml/howfarisspace">Github</a>.</p></div>
    <div id="this_map"></div>
 </body>
 </html>
