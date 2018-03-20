@@ -13,7 +13,7 @@ $( document ).ready(function() {
   var layer = new L.StamenTileLayer("toner-lite");
   map = new L.Map("this_map", {
     center: new L.LatLng(37.98, 23.72),
-    zoom: 5
+    zoom: 8
   });
   map.addLayer(layer);
   circles = new L.LayerGroup();
